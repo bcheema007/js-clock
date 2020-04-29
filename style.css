@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Pompiere&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    display: flex;
+    font-size: 7rem;
+    color: rgba(136, 131, 213, 0.9);
+    font-family: 'Pompiere', cursive;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20%;
+}
